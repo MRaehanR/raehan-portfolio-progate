@@ -71,6 +71,10 @@ body{
     width: 80px;    
 }
 
+.sosmed img:hover {
+    transition: 300ms;
+    margin-right: -10px;
+}
 
 /* Class box1 */
 
